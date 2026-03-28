@@ -5,11 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=rutujagadge&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rutujagadge&theme=gruvbox&row=1&column=7" alt="GitHub Trophy" />
-  </a>
-</p>
+
 
 ### 🚀 About Me
 - 🌱 Currently learning **Java, Spring Boot, RESTful APIs, MySQL**
@@ -37,9 +33,5 @@
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
 </p>
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutujagadge&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujagadge&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
 
